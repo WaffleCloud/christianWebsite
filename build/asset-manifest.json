@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6edb85b5.css",
+    "main.js": "/static/js/main.2b613eb1.js",
+    "static/media/street-battle.png": "/static/media/street-battle.4f1408e8304924de8793.png",
+    "static/media/block.jpg": "/static/media/block.6f4fc296dd0b8800ff07.jpg",
+    "static/media/look-up.jpg": "/static/media/look-up.7402655ccaefdafccae5.jpg",
+    "static/media/shift.jpg": "/static/media/shift.caec14eeb2d709033948.jpg",
+    "static/media/ocean-squat.jpg": "/static/media/ocean-squat.1ddafcfcea211595976a.jpg",
+    "static/media/main.jpg": "/static/media/main.7b54afdb100c3eee80f1.jpg",
+    "static/media/jumpy-boi.jpg": "/static/media/jumpy-boi.89e9275dedc535c03311.jpg",
+    "static/media/zen-statue.jpg": "/static/media/zen-statue.8b2befb3f356bceb8a1f.jpg",
+    "static/media/casual-full.jpg": "/static/media/casual-full.07b499af8672a84e1f9f.jpg",
+    "static/media/intense-face.jpg": "/static/media/intense-face.197a891ac901fab786a8.jpg",
+    "static/media/bo-staff.jpg": "/static/media/bo-staff.11a85feaaf7e9613febe.jpg",
+    "static/media/front-profile.jpg": "/static/media/front-profile.f8e6a324f9f7df6a7c2f.jpg",
+    "static/media/certificate.jpg": "/static/media/certificate.d522a775d46d2fdbb677.jpg",
+    "static/media/matrix.jpg": "/static/media/matrix.47b9ee1713b58552cde5.jpg",
+    "static/media/spartan.jpg": "/static/media/spartan.addb545cd6186d842d66.jpg",
+    "index.html": "/index.html",
+    "main.6edb85b5.css.map": "/static/css/main.6edb85b5.css.map",
+    "main.2b613eb1.js.map": "/static/js/main.2b613eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6edb85b5.css",
+    "static/js/main.2b613eb1.js"
+  ]
+}
