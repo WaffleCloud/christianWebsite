@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6edb85b5.css",
+    "main.css": "/static/css/main.bd330f21.css",
     "main.js": "/static/js/main.2b613eb1.js",
     "static/media/street-battle.png": "/static/media/street-battle.4f1408e8304924de8793.png",
     "static/media/block.jpg": "/static/media/block.6f4fc296dd0b8800ff07.jpg",
@@ -18,11 +18,11 @@
     "static/media/matrix.jpg": "/static/media/matrix.47b9ee1713b58552cde5.jpg",
     "static/media/spartan.jpg": "/static/media/spartan.addb545cd6186d842d66.jpg",
     "index.html": "/index.html",
-    "main.6edb85b5.css.map": "/static/css/main.6edb85b5.css.map",
+    "main.bd330f21.css.map": "/static/css/main.bd330f21.css.map",
     "main.2b613eb1.js.map": "/static/js/main.2b613eb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.6edb85b5.css",
+    "static/css/main.bd330f21.css",
     "static/js/main.2b613eb1.js"
   ]
 }
