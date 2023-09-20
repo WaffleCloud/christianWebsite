@@ -5,7 +5,9 @@ function Intro(){
     <section>
       <div className="intro"> 
       <h1>Christian Jimenez</h1> 
+      <br/>
       <h2>Film Actor - Martial Artist - Voice Actor</h2>
+      <br/>
       <h2>Venice, CA</h2>
       </div> 
       <div className="main-img-container">
