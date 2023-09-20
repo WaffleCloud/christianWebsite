@@ -85,7 +85,7 @@
   .intro{
     /* height: 30%; */
     width: auto;
-    /* display: block; */
+    display: flex;
     text-align: center;
     justify-content: center;
     /* flex: auto; */
