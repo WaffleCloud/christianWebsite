@@ -2,13 +2,11 @@ import { mainPic } from './data'
 
 function Intro(){
     return(
-    <section>
-      <div className="intro"> 
-      <h1>Christian Jimenez</h1> 
-      <br/>
-      <h2>Film Actor - Martial Artist - Voice Actor</h2>
-      <br/>
-      <h2>Venice, CA</h2>
+    <section className='intro-container'>
+      <div className="intro">
+      <p style={{fontSize:'60px'}}>Christian Jimenez</p> 
+      <p style={{fontSize: '40px'}}>Film Actor - Martial Artist - Voice Actor</p>
+      <p style={{fontSize: '40px'}}>Venice, CA</p>
       </div> 
       <div className="main-img-container">
       <img src={mainPic.main} className="main-img" alt="main-img" />
