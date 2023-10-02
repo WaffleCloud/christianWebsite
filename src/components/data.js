@@ -12,7 +12,6 @@ import spartan from './pictures/gallery/spartan.jpg';
 import certificate from './pictures/gallery/certificate.jpg';
 import intenseFace from './pictures/gallery/intense-face.jpg';
 import matrix from './pictures/gallery/matrix.jpg';
-import casualFull from './pictures/gallery/casual-full.jpg';
 import oceanSquat from './pictures/gallery/ocean-squat.jpg';
 
 //splash pics
