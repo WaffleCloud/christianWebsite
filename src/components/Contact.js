@@ -18,7 +18,7 @@ let content =
 //   setDisplay('')
 //   };
 
-  let contactImage = <img src={splashPics[1]} alt="block" className="contact-splash-img" id="left"/>
+let contactImage = <img src={splashPics[1]} alt="block" className="contact-splash-img" id="left"/>
  
 
 return(

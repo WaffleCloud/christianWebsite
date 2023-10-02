@@ -1,11 +1,5 @@
 
 
-.close-form{
-    font-size: 2rem;
-    offset: 5px 5px;
-    cursor: pointer;
-}
-
 
 .contact-card{
     height: 30%;
@@ -23,8 +17,50 @@
     font-weight: bold;
     font-size: 50px;
     padding: 10px;
+    padding-right: 30px;
     background-color: rgb(165, 176, 164, 0.2);
   }
+
+  .connect-card{
+    flex: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    
+  
+  }
+  
+     .social-icons{
+      display: flex;
+      flex: auto;
+      width: auto;
+      height: auto;
+      flex-shrink: inherit;
+      align-items: space-between;
+      justify-content: flex-end;
+      flex-wrap: nowrap;
+      flex-shrink: 1;
+      /* max-height: 3rem;
+      max-width: 3rem; */
+     }
+  
+     .email-icon{
+      display: flex;
+      max-width: 50px;
+      max-height: 50px;
+     }
+    
+     .facebook-icon{
+      display: flex;
+     }
+  
+     .instagram-icon{
+      display:flex;
+     }
+
   
   .contact-card:hover{
     background-color: rgb(165, 176, 164, 0.8);
@@ -60,32 +96,10 @@
     border: 1px solid #60564a;
    }
 
-.connect-card{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
 
+   .close-form{
+    font-size: 2rem;
+    offset: 5px 5px;
+    cursor: pointer;
 }
 
-   .social-icons{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    max-height: 3rem;
-    max-width: 3rem;
-   }
-
-   .email-icon{
-    max-width: 50px;
-    max-height: 50px;
-    margin: 1rem;
-   }
-  
-   .facebook-icon{
-    margin: 1rem;
-   }
-
-   .instagram-icon{
-    margin: 1rem;
-   }
