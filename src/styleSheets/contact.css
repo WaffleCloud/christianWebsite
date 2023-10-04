@@ -38,8 +38,8 @@
 
   .socials-card {
     display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
+    align-items: space-between;
+    justify-content: center;
     object-fit: scale-down;
     text-align: right;
   }
@@ -51,10 +51,12 @@
       height: auto;
       flex-shrink: inherit;
       align-items: space-between;
-      justify-content: flex-end;
+      justify-content: space-between;
+      object-position: right bottom;
       flex-wrap: nowrap;
       flex-shrink: 1;
       object-fit: scale-down;
+     
       /* max-height: 3rem;
       max-width: 3rem; */
      }
@@ -63,14 +65,24 @@
       display: flex;
       max-width: 50px;
       max-height: 50px;
+      margin-right: 10px;
+      margin-left: 10px;
+     
      }
     
      .facebook-icon{
       display: flex;
+      margin-right: 10px;
+      margin-left: 10px;
+      
      }
   
      .instagram-icon{
       display:flex;
+      margin-right: 10%;
+      margin-left: 10%;
+      padding-right: 10%;
+      padding-left: 10%;
      }
 
   
@@ -106,6 +118,14 @@
     text-align: left;
     border-radius: 90px;
     border: 1px solid #60564a;
+   }
+
+
+   .text-image-position{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
    }
 
 

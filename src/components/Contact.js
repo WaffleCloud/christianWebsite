@@ -25,9 +25,11 @@ return(
     <section>
     <div className='contact-card'>
         {contactImage}
+        <div className='text-image-position'>
         <p>Connect</p>
         <div className='socials-card'>
         {content}
+        </div>
         </div>
     </div>
     </section>
