@@ -13,7 +13,8 @@
     font-size: 1.25rem;
     border: 1px dotted #60564a;
     overflow-y: auto; 
-    overflow-x: scroll;
+    overflow-x: auto;
+    flex-wrap: wrap;
     content-visibility: auto;
     background-color: rgb(228,221,195, 0.2);
     box-shadow: inset 0px 0px 40px 1px rgb(47,50,60, 0.5);

@@ -23,10 +23,10 @@ let contactImage = <img src={splashPics[1]} alt="block" className="contact-splas
 
 return(
     <section>
-    <div className={'contact-card'}>
+    <div className='contact-card'>
         {contactImage}
-        <div className='connect-card'>
         <p>Connect</p>
+        <div className='socials-card'>
         {content}
         </div>
     </div>

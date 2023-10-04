@@ -20,6 +20,8 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  flex-wrap: wrap;
+  overflow: auto;
 }
 
 .gallery-container:hover{
@@ -45,6 +47,8 @@
   font-size: 50px;
   padding: 10px;
   background-color: rgb(165, 176, 164, 0.2);
+  overflow: auto;
+  flex-wrap: wrap;
 }
 
 .pic-container-active{
@@ -71,6 +75,7 @@
   margin-left: 30%;
   height: 30%;
   width: 30%;
+  text-align: right;
   border-radius: 90px;
   border: 1px solid #60564a;
  }

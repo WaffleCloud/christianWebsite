@@ -19,9 +19,11 @@
     padding: 10px;
     padding-right: 30px;
     background-color: rgb(165, 176, 164, 0.2);
+    overflow: auto;
+    flex-wrap: wrap;
   }
 
-  .connect-card{
+  /* .connect-card{
     flex: auto;
     width: auto;
     display: flex;
@@ -29,8 +31,17 @@
     justify-content: center;
     align-items: center;
     flex-wrap: nowrap;
+    overflow:scroll
     
-  
+  } */
+
+
+  .socials-card {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    object-fit: scale-down;
+    text-align: right;
   }
   
      .social-icons{
@@ -43,6 +54,7 @@
       justify-content: flex-end;
       flex-wrap: nowrap;
       flex-shrink: 1;
+      object-fit: scale-down;
       /* max-height: 3rem;
       max-width: 3rem; */
      }
@@ -97,9 +109,9 @@
    }
 
 
-   .close-form{
+   /* .close-form{
     font-size: 2rem;
     offset: 5px 5px;
     cursor: pointer;
-}
+} */
 

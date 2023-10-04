@@ -43,7 +43,7 @@ return(
       {gallerySplash}{gallery}
       </div>
       <div>{content}</div>
-      </>
+  </>
 )
 }
 
