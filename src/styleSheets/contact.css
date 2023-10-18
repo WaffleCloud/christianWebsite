@@ -23,18 +23,6 @@
     flex-wrap: wrap;
   }
 
-  /* .connect-card{
-    flex: auto;
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap;
-    overflow:scroll
-    
-  } */
-
 
   .socials-card {
     display: flex;
@@ -56,9 +44,6 @@
       flex-wrap: nowrap;
       flex-shrink: 1;
       object-fit: scale-down;
-     
-      /* max-height: 3rem;
-      max-width: 3rem; */
      }
   
      .email-icon{
@@ -101,11 +86,9 @@
     width: 70vw;
     max-width: 750px;
     border: 2px solid #60564a;
-    /* margin: 10px; */
     color: #3f3942;
     font-family: 'Amatic SC', cursive;
     font-weight: bold;
-    /* font-size: 50px; */
     padding: 10px;
     background-color: rgb(165, 176, 164, 0.2);
 }
@@ -127,11 +110,4 @@
     justify-content: center;
     align-items: center;
    }
-
-
-   /* .close-form{
-    font-size: 2rem;
-    offset: 5px 5px;
-    cursor: pointer;
-} */
 

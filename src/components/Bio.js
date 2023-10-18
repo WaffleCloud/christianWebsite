@@ -6,8 +6,6 @@ import BioCard from './BioCard';
 function Bio(){
 
     let biography = <BioCard/>
-    
-
     const [bio, setBio] = useState('');
 
     const bioClickHandler = () => {
@@ -33,8 +31,6 @@ function Bio(){
     {title}{bio}
     </div> 
 
-  
- 
     return(
     <section>{content}</section>
     )

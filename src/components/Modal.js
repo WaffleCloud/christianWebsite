@@ -48,14 +48,3 @@ export default function Modal(){
     </>
     )
 }
-
-// {/* <button onClick={()=>imageAction('next-img')} 
-//             className='btn-next btn'>next</button> */}
-// {/* <button onClick={()=>imageAction('prev-img')}
-//             className='btn-prev btn'>prev</button> */}
-// if(action === 'next-img'){
-//   setData({img:picturesObj[i + 1].image, i: i + 1});
-// }
-// if(action === 'prev-img'){
-// setData({img:picturesObj[i -1].image, i: i - 1})
-// }
